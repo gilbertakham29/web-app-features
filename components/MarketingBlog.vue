@@ -8,7 +8,7 @@
          <div class="grid-cols-3 gap-12 lg:grid md:grid mt-10 lg:ml-12 mx-5  flex flex-col">
  <div class="max-w-sm bg-[#253052] border border-[#000837] rounded-lg shadow">
      <a href="#">
-         <img class="max-w-full rounded-lg px-3 py-3" src="~/assets/images/office-laptops.png" alt="office-laptops" />
+         <img class="max-w-full rounded-lg px-3 py-3" src="/office-laptops.png" alt="office-laptops" />
      </a>
      
      <div class="px-3">
@@ -23,7 +23,7 @@
          <p class="mt-2 font-normal text-[#8f8e8e] pr-5  dark:text-gray-400">Over the past year,Volosoft has undergone many changes!After months of preparation and some hard work,we moved to our new office.</p>
          <div class="flex items-center space-x-4 mt-2 mb-10">
                     <div class="flex-shrink-0 mt-5">
-                        <img class="w-8 h-8 rounded-full" src="~/assets/images/jese.png" alt="Neil image">
+                        <img class="w-8 h-8 rounded-full" src="/jese.png" alt="Neil image">
                     </div>
                     <div class="flex-1 min-w-0 mt-5">
                         <p class="text-sm font-medium text-white truncate dark:text-white">
@@ -41,7 +41,7 @@
  <div class="max-w-sm bg-[#253052] border border-[#000837] rounded-lg shadow ">
 
     <a href="#">
-         <img class="max-w-full rounded-lg px-3 py-3" src="~/assets/images/google-hq.png" alt="google-hq" />
+         <img class="max-w-full rounded-lg px-3 py-3" src="/google-hq.png" alt="google-hq" />
      </a>
      
      <div class="px-3">
@@ -56,7 +56,7 @@
          <p class="mt-2 font-normal text-[#8f8e8e] pr-5  dark:text-gray-400">Over the past year,Volosoft has undergone many changes!After months of preparation and some hard work,we moved to our new office.</p>
          <div class="flex items-center space-x-4 mt-2 mb-10">
                     <div class="flex-shrink-0 mt-5">
-                        <img class="w-8 h-8 rounded-full" src="~/assets/images/roberta.png" alt="Roberta image">
+                        <img class="w-8 h-8 rounded-full" src="/roberta.png" alt="Roberta image">
                     </div>
                     <div class="flex-1 min-w-0 mt-5">
                         <p class="text-sm font-medium text-white truncate dark:text-white">
@@ -74,7 +74,7 @@
  <div class="max-w-sm bg-[#253052] border border-[#000837] rounded-lg shadow ">
 
 <a href="#">
-     <img class="max-w-full rounded-lg px-3 py-3" src="~/assets/images/office-laptops-2.png" alt="office-laptops-2" />
+     <img class="max-w-full rounded-lg px-3 py-3" src="/office-laptops-2.png" alt="office-laptops-2" />
  </a>
  
  <div class="px-3">
@@ -89,7 +89,7 @@
      <p class="mt-2 font-normal text-[#8f8e8e] pr-5  dark:text-gray-400">Over the past year,Volosoft has undergone many changes!After months of preparation and some hard work,we moved to our new office.</p>
      <div class="flex items-center space-x-4 mt-2 mb-10">
                 <div class="flex-shrink-0 mt-5">
-                    <img class="w-8 h-8 rounded-full" src="~/assets/images/sofia.png" alt="Sofia image">
+                    <img class="w-8 h-8 rounded-full" src="/sofia.png" alt="Sofia image">
                 </div>
                 <div class="flex-1 min-w-0 mt-5">
                     <p class="text-sm font-medium text-white truncate dark:text-white">

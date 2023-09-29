@@ -8,7 +8,7 @@
         <div class="grid-cols-3 gap-12 lg:grid md:grid mt-10 lg:ml-12 lg:mr-5 mx-5 flex flex-col">
 <div class="max-w-sm bg-[#000837] border border-[#000837] rounded-lg shadow ">
     <a href="#">
-        <img class="rounded-t-lg" src="~/assets/images/landing-page.jpeg" alt="landing-page" />
+        <NuxtImg class="rounded-t-lg" src="/landing-page.jpeg" alt="landing-page" />
     </a>
     
     <div class="p-1">
@@ -45,7 +45,7 @@ Figma Design
 
 <div class="max-w-sm bg-[#000837] border border-[#000837] rounded-lg shadow ">
     <a href="#">
-        <img class="rounded-t-lg" src="~/assets/images/analytics-tool.jpg" alt="analytics-tool" />
+        <NuxtImg class="rounded-t-lg" src="/analytics-tool.jpg" alt="analytics-tool" />
     </a>
     
     <div class="p-1">
@@ -77,7 +77,7 @@ Front-end
 
 <div class="max-w-sm bg-[#000837] border border-[#000837] rounded-lg shadow ">
     <a href="#">
-        <img class="rounded-t-lg" src="~/assets/images/task-management.jpg" alt="task-management" />
+        <NuxtImg class="rounded-t-lg" src="/task-management.jpg" alt="task-management" />
     </a>
     
     <div class="p-1">

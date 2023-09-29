@@ -36,7 +36,7 @@
               <a href="#" class="mr-4 hover:underline md:mr-6">Affiliate Program</a>
           </li>
           <li>
-              <a href="/faqs" class="mr-4 hover:underline md:mr-6">FAQs</a>
+              <a href="#" class="mr-4 hover:underline md:mr-6">FAQs</a>
           </li>
           <li>
               <a href="#" class="mr-4 hover:underline md:mr-6">Contact</a>
