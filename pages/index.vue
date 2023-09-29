@@ -5,6 +5,7 @@
    <MarketingPortfolio/>
    <MarketingBlog/>
    <MarketingSection/>
+   <FAQs/>
    <Footer/>
 </template>
 
