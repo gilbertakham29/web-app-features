@@ -2,6 +2,10 @@
    <Header/>
    <SubHeader/>
    <MarketingFeatureOne/>
+   <MarketingPortfolio/>
+   <MarketingBlog/>
+   <MarketingSection/>
+   <Footer/>
 </template>
 
 <script setup>
