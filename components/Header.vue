@@ -29,11 +29,7 @@
         </h3>
     </div>
     <div class="flex md:flex-row flex-col w-11/12 mx-auto items-center mt-5 py-5 gap-5">
-        <div class="md:flex-col text-center">
-            <img class="w-76 lg:p-0 p-12 border border-[#000837] rounded-full" src="https://save-effort.netlify.app/_nuxt/reviewer.72ce0405.svg"/>
-        
-        </div>
-
+       
         
         <div class="mb-10 ml-5">
             <img class="md:w-76 w-48 mb-1" src="https://save-effort.netlify.app/_nuxt/star.cb0a79fc.webp"/>

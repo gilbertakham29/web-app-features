@@ -22,10 +22,10 @@
          </a>
          <p class="mt-2 font-normal text-[#8f8e8e] pr-5  dark:text-gray-400">Over the past year,Volosoft has undergone many changes!After months of preparation and some hard work,we moved to our new office.</p>
          <div class="flex items-center space-x-4 mt-2 mb-10">
-                    <div class="flex-shrink-0">
+                    <div class="flex-shrink-0 mt-5">
                         <img class="w-8 h-8 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png" alt="Neil image">
                     </div>
-                    <div class="flex-1 min-w-0">
+                    <div class="flex-1 min-w-0 mt-5">
                         <p class="text-sm font-medium text-white truncate dark:text-white">
                             Jese Leos
                         </p>
@@ -55,10 +55,10 @@
          </a>
          <p class="mt-2 font-normal text-[#8f8e8e] pr-5  dark:text-gray-400">Over the past year,Volosoft has undergone many changes!After months of preparation and some hard work,we moved to our new office.</p>
          <div class="flex items-center space-x-4 mt-2 mb-10">
-                    <div class="flex-shrink-0">
+                    <div class="flex-shrink-0 mt-5">
                         <img class="w-8 h-8 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/roberta-casas.png" alt="Roberta image">
                     </div>
-                    <div class="flex-1 min-w-0">
+                    <div class="flex-1 min-w-0 mt-5">
                         <p class="text-sm font-medium text-white truncate dark:text-white">
                            Roberta Casas
                         </p>
@@ -88,10 +88,10 @@
      </a>
      <p class="mt-2 font-normal text-[#8f8e8e] pr-5  dark:text-gray-400">Over the past year,Volosoft has undergone many changes!After months of preparation and some hard work,we moved to our new office.</p>
      <div class="flex items-center space-x-4 mt-2 mb-10">
-                <div class="flex-shrink-0">
+                <div class="flex-shrink-0 mt-5">
                     <img class="w-8 h-8 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/sofia-mcguire.png" alt="Sofia image">
                 </div>
-                <div class="flex-1 min-w-0">
+                <div class="flex-1 min-w-0 mt-5">
                     <p class="text-sm font-medium text-white truncate dark:text-white">
                         Sofia McGuire
                     </p>
