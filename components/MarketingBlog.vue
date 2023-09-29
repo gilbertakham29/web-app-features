@@ -5,7 +5,7 @@
              <h2 class="text-5xl text-white text-center font-medium from-stone-50 mt-5 mx-auto">Our Blog</h2>
              <p class="text-xl font-normal text-center mt-3 text-[#8f8e8e]">We use an agile approach to test assumptions and connect with the needs of your audience early and often.</p>
          </div>
-         <div class="grid-cols-3 gap-12 lg:grid md:grid mt-10 lg:ml-12 mx-5  flex flex-col">
+         <div class="grid-cols-3 gap-14 lg:grid md:grid mt-10 lg:ml-12 mx-5  flex flex-col">
  <div class="max-w-sm bg-[#253052] border border-[#000837] rounded-lg shadow">
      <a href="#">
          <img class="max-w-full rounded-lg px-3 py-3" src="/office-laptops.png" alt="office-laptops" />
