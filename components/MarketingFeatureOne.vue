@@ -1,10 +1,10 @@
 <template>
     <section class="bg-[#000837]">
-        <div class="flex flex-col items-start justify-center w-1/2 mx-12">
+        <div class="flex flex-col items-start justify-center lg:w-1/2 lg:mx-12 ml-5">
             <h3 class="text-5xl text-white font-medium from-stone-50 mt-5">Secure platform,secure data</h3>
             <p class="text-xl font-normal mt-3 text-[#8f8e8e]">Here at Flowbite we focus on markets where technology,innovation,and capital can unlock long-term and drive economic growth.</p>
         </div>
-        <div class="grid grid-cols-3 lg:grid md:grid mt-10 ml-12 mr-5 sm:flex sm:flex-col">
+        <div class="grid-cols-3 lg:grid md:grid mt-10 ml-12 mr-5 flex flex-col">
             <div class="mb-16">
             <div class="border border-blue-800 rounded w-16 h-16 text-white bg-blue-800 items-center outline-none px-5 py-5">
                 <svg class="w-6 h-6 text-white-800 " aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 18">

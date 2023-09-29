@@ -1,11 +1,11 @@
 <template>
     <section class="bg-[#000837]">
      <div class="flex flex-col items-center">
-         <div class="flex flex-col items-center w-1/2 mt-14 pb-10">
+         <div class="flex flex-col items-center lg:w-1/2 mt-14 pb-10">
              <h2 class="text-5xl text-white text-center font-medium from-stone-50 mt-5 mx-auto">Our Blog</h2>
              <p class="text-xl font-normal text-center mt-3 text-[#8f8e8e]">We use an agile approach to test assumptions and connect with the needs of your audience early and often.</p>
          </div>
-         <div class="grid grid-cols-3 gap-12 lg:grid md:grid mt-10 ml-12 mr-5 sm:flex sm:flex-col">
+         <div class="grid-cols-3 gap-12 lg:grid md:grid mt-10 lg:ml-12 mx-5  flex flex-col">
  <div class="max-w-sm bg-[#253052] border border-[#000837] rounded-lg shadow">
      <a href="#">
          <img class="max-w-full rounded-lg px-3 py-3" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/blog/office-laptops.png" alt="office-laptops" />
@@ -54,7 +54,7 @@
              <h5 class="mt-2 text-2xl font-bold tracking-tight text-white dark:text-white">We partnered up with Google</h5>
          </a>
          <p class="mt-2 font-normal text-[#8f8e8e] pr-5  dark:text-gray-400">Over the past year,Volosoft has undergone many changes!After months of preparation and some hard work,we moved to our new office.</p>
-         <div class="flex items-center space-x-4 mt-2">
+         <div class="flex items-center space-x-4 mt-2 mb-10">
                     <div class="flex-shrink-0">
                         <img class="w-8 h-8 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/roberta-casas.png" alt="Roberta image">
                     </div>
@@ -87,7 +87,7 @@
          <h5 class="mt-2 text-2xl font-bold tracking-tight text-white dark:text-white">Our first project with React</h5>
      </a>
      <p class="mt-2 font-normal text-[#8f8e8e] pr-5  dark:text-gray-400">Over the past year,Volosoft has undergone many changes!After months of preparation and some hard work,we moved to our new office.</p>
-     <div class="flex items-center space-x-4 mt-2">
+     <div class="flex items-center space-x-4 mt-2 mb-10">
                 <div class="flex-shrink-0">
                     <img class="w-8 h-8 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/sofia-mcguire.png" alt="Sofia image">
                 </div>

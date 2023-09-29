@@ -1,11 +1,11 @@
 <template>
    <section class="bg-[#000837]">
     <div class="flex flex-col items-center">
-        <div class="flex flex-col items-center w-1/2">
+        <div class="flex flex-col items-center lg:w-1/2">
             <h2 class="text-5xl text-white text-center font-medium from-stone-50 mt-5 mx-auto">Custom works</h2>
             <p class="text-xl font-normal text-center mt-3 text-[#8f8e8e]">Flowbite helps you connect with friends,family and communities of people who share your interest</p>
         </div>
-        <div class="grid grid-cols-3 gap-12 lg:grid md:grid mt-10 ml-12 mr-5 sm:flex sm:flex-col">
+        <div class="grid-cols-3 gap-12 lg:grid md:grid mt-10 lg:ml-12 lg:mr-5 mx-5 flex flex-col">
 <div class="max-w-sm bg-[#000837] border border-[#000837] rounded-lg shadow ">
     <a href="#">
         <img class="rounded-t-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/case-study/agency-landing-page.jpg" alt="landing-page" />
